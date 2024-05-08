@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#next {
+  position: absolute;
+  top:50px;
+  left: 1400px;
+  font-size: 60px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+}
+
+a: visted {
+  text-decoration: none;
+  color: purple;
+}
